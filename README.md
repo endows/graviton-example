@@ -1,4 +1,4 @@
-MeteorのORM,gravitonを使ってみるサンプル
+# MeteorのORM,gravitonを使ってみるサンプル
 meteorでちょっと困ることがあるんです。hasMany,belongsTo。Railsから流れ着いた者としては、その辺をしっかり組んでからプログラミング開始したいと常々思ってました。
 
 これまではhasMany,BelongsToを実現するためにtransformを使ってきました。まぁぶっちゃけ、transformさえあれは大抵のリレーションはサクッと作れちゃうんですがw
